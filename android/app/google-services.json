@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "60631481430",
+    "project_id": "meta-hub-f4ba9",
+    "storage_bucket": "meta-hub-f4ba9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60631481430:android:74172a1226150fe5700ff7",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs3uxGl5PE234f868E2ik62ZST3MllxQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
